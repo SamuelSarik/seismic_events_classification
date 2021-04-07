@@ -1,3 +1,3 @@
 # Automatic classification of seismic events using convolutional neural networks
-
-#Abstract
+Samuel Sarik, Viera Maslej Krešňáková and Peter Butka
+# Abstract
