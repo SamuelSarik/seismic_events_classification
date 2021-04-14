@@ -10,7 +10,7 @@ Náš program bol vyvíjaný na počítači s operačným systémom Windows 10 s
 # Požiadavky na programové prostriedky
 Pri spúšťaní nášho programu odporúčame mať nainštalované prostredie Pycharm, alebo iné, funkciami podobné prostredie, ktoré dokáže pracovať so súbormi typu .ipynb. My sme využívali Anacondu, a v nej integrované prostredie Spyder, ale aj Jupyter Notebook.
 # Vlastná inštalácia
-Pri spustení programu je potrebné rozbaliť súbory do pracovného adresára, kde sa nachádzajú aj dátové súbory v adresári \textbf{svmdat}. Adresár \textbf{svmdat} obsahuje 54 súborov so seizmickými signálmi. Ďalšia inštalácia nie je potrebná.
+Pri spustení programu je potrebné rozbaliť súbory do pracovného adresára, kde sa nachádzajú aj dátové súbory v adresári svmdat. Adresár svmdat obsahuje 54 súborov so seizmickými signálmi. Ďalšia inštalácia nie je potrebná.
 # Popis štruktúry programu
 Zdrojový kód je obsiahnutý v súbore seismic_events_classification.ipynb. Je to súbor typu Jupyter Notebook, ktorý je charakteristický rozdelením kódu do blokov. Každý blok reprezentuje čiastkovú funkcionalitu celej úlohy. Obsah blokov je bližšie charakterizovaný v systémovej príručke v časti Popis algoritmov a údajových štruktúr, globálnych premenných.
 # Popis správ pre systémového programátora
